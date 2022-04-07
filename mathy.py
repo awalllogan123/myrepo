@@ -1,10 +1,6 @@
 
 def add_one(number):
-    # lets make this very complicated
-    sum = number 
-    sum = sum + 0
-    sum = sum + number - number - 1 + 2
-    print(f"one plus {number} is {sum}") 
+    print(f"one plus {number} is {number+1}") 
 
 
 def add_two(number):
